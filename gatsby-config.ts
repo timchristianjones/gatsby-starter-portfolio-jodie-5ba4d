@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Jodie`,
     siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
     siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://jodie.lekoarts.de`,
+    siteUrl: `https://app.netlify.com/sites/candid-lollipop-747899/`,
     siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
